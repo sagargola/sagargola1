@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Freenlance project**
+- 🔭 I’m currently working on **Freelance project**
 
 - 🌱 I’m currently learning **React Native**
 
-- 👯 I’m looking to collaborate on **Start up Projects on Web development**
+- 👯 I’m looking to collaborate on **Startup Projects on Web development**
 
-- 💬 Ask me about **react, next.js, mongo, javscript, python, java**
+- 💬 Ask me about **react, next.js, mongo, javascript, python, java**
 
 - 📫 How to reach me **sagargoladelhi@gmail.com**
 
